@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Greetings!<br><br>
+👋 Greetings!<br>
 
 I am a passionate programmer and Systems Engineering and Computer Science graduate with a broad technical background and an unwavering dedication to innovation. My journey, spanning both electronics and mechanics, adds a multidimensional touch to my approach to development and problem-solving.<br><br>
 
@@ -24,9 +24,6 @@ Ky C.O
 ![](https://github-readme-stats.vercel.app/api?username=kevinky8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kevinky8&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinky8&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kevinky8&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kevinky8&icon=0&color=0)](https://visitcount.itsvg.in)

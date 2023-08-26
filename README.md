@@ -1,6 +1,19 @@
 # 💫 About Me:
-👋 ¡Saludos!<br><br>Soy un apasionado programador e Ingeniero de Sistemas e Informática con un amplio bagaje técnico y una dedicación inquebrantable hacia la innovación. Mi trayectoria, que abarca tanto la electrónica como la mecánica, agrega un toque multidimensional a mi enfoque en el desarrollo y la resolución de problemas.<br><br>Con una sólida experiencia en tecnologías de vanguardia y una mentalidad de aprendizaje constante, estoy comprometido a mantenerme al tanto de las últimas tendencias y desafíos tecnológicos. Mi habilidad para fusionar conocimientos de distintas disciplinas me permite idear soluciones únicas y creativas para problemas complejos.<br><br>He tenido la oportunidad de trabajar con diversas tecnologías y herramientas en el ámbito de la programación y el desarrollo. Mi experiencia abarca tanto el diseño y desarrollo de sistemas como la creación de aplicaciones robustas y eficientes. Siempre busco mejorar y expandir mis habilidades para ofrecer soluciones de alta calidad.<br><br>Mi afán por aprender y crecer va de la mano con mi entusiasmo por asumir nuevos proyectos. Tengo un espíritu colaborativo y estoy emocionado por sumergirme en desafíos que me permitan aportar mis habilidades técnicas y creativas. Desde Perú, mi país de origen, estoy dedicado a contribuir al panorama tecnológico local e internacional.<br><br>En un mundo en constante evolución, estoy listo para abrazar cada oportunidad de desarrollo y superación. Si buscas a alguien apasionado, versátil y decidido a llevar tus proyectos al siguiente nivel, ¡espero con ansias la posibilidad de ser parte de tu equipo!<br>Saludos<br>Ky C.O
 
+👋 Greetings!<br><br>
+
+I am a passionate programmer and Systems Engineering and Computer Science graduate with a broad technical background and an unwavering dedication to innovation. My journey, spanning both electronics and mechanics, adds a multidimensional touch to my approach to development and problem-solving.<br><br>
+
+With a strong experience in cutting-edge technologies and a mindset of constant learning, I am committed to staying up-to-date with the latest trends and technological challenges. My ability to merge knowledge from different disciplines enables me to devise unique and creative solutions for complex problems.<br><br>
+
+I've had the opportunity to work with diverse technologies and tools in the realm of programming and development. My expertise covers both system design and development, as well as crafting robust and efficient applications. I am always seeking to enhance and expand my skills to deliver high-quality solutions.<br><br>
+
+My drive to learn and grow goes hand in hand with my enthusiasm for taking on new projects. I possess a collaborative spirit and am eager to immerse myself in challenges that allow me to contribute my technical and creative skills. Hailing from Peru, my home country, I am dedicated to contributing to both the local and international technological landscape.<br><br>
+
+In a perpetually evolving world, I am ready to embrace every opportunity for growth and advancement. If you are seeking someone passionate, versatile, and determined to elevate your projects to the next level, I eagerly anticipate the chance to become a part of your team!<br>
+
+Best regards,<br>
+Ky C.O
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ky-c-o-695bb014b) 
